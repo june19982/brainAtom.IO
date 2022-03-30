@@ -1,0 +1,16 @@
+{
+"companyName": "jiangzhengjun",
+"productName": "brainatom",
+"productVersion": "0.1",
+"dataUrl": "Wechat.data.unityweb",
+"wasmCodeUrl": "Wechat.wasm.code.unityweb",
+"wasmFrameworkUrl": "Wechat.wasm.framework.unityweb",
+"wasmSymbolsUrl": "Wechat.wasm.symbols.unityweb",
+"graphicsAPI": ["WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20",
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.4.8f1"
+}
